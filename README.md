@@ -1,4 +1,4 @@
-##Smart Triage
+Smart Triage
 
 An advanced clinical decision support system that uses Hybrid AI (Rule-Based + ML Ensemble) to triage patients in real-time. It features Explainable AI (XAI) to provide transparent reasoning for every prediction, helping clinicians make faster, safer decisions.
 
